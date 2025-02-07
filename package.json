@@ -1,0 +1,23 @@
+{
+  "name": "is219",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaw393939/is219-js1.git"
+  },
+  "author": "Keith Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaw393939/is219-js1/issues"
+  },
+  "homepage": "https://github.com/kaw393939/is219-js1#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
